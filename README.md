@@ -7,7 +7,7 @@ Este es un dashboard interactivo construido con Dash y Plotly en Python. Se cone
 - Python 3.7+
 - Entorno virtual (recomendado)
 
-## Instalación
+## Instalación Local
 
 1. Activa tu entorno virtual (si ya tienes uno llamado `venv`):
    ```bash
